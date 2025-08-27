@@ -26,7 +26,7 @@
 🔹 [Hand Gesture Detection](https://github.com/jaygautam-creator/ML-project---Hand-Gesture-Detection) – ML model for non-verbal communication  
 🔹 [Advanced SIP Calculator](https://github.com/jaygautam-creator/Advanced-SIP-Calculator) – C++ SIP return calculator with inflation & profit  
 🔹 [Attendance Calculator](https://github.com/jaygautam-creator/Attendance-Calculator-for-student) – Smart attendance prediction tool  
-🔹 KrishiMitra AI – AI platform for farmers (weather, crops, seasonal guidance)  
+🔹 [KrishiMitra AI](https://github.com/jaygautam-creator/KrishiMitra-AI) – AI platform for farmers (weather, crops, seasonal guidance)  
 
 ---
 
