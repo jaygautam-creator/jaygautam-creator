@@ -2,8 +2,6 @@
 
 I build small, sharp tools that make software easier to reason about — for the people *and* the agents now working beside them. Lately that means developer tooling and applied AI: agentic coding loops, onboarding systems, and the unglamorous plumbing that makes a workflow feel obvious instead of clever.
 
-🔭 Currently a **Software Developer Intern at Casepoint**, working on a .NET-based eDiscovery platform.
-
 India · writing at [gautamjay.blogspot.com](https://gautamjay.blogspot.com)
 
 ---
