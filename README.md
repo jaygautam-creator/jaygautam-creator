@@ -40,8 +40,8 @@ I build small, sharp tools that make software easier to reason about — for the
 ### ◆ &nbsp;Toolkit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,kotlin,cpp,fastapi,nextjs,react,postgres,pytorch,tensorflow,opencv,docker,flutter,vercel&theme=dark&perline=14">
-  <img alt="Python, TypeScript, Kotlin, C++, FastAPI, Next.js, React, PostgreSQL, PyTorch, TensorFlow, OpenCV, Docker, Flutter, Vercel" src="https://skillicons.dev/icons?i=python,ts,kotlin,cpp,fastapi,nextjs,react,postgres,pytorch,tensorflow,opencv,docker,flutter,vercel&theme=light&perline=14" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <img alt="Python, TypeScript, Kotlin, C++, FastAPI, Next.js, React, PostgreSQL, PyTorch, TensorFlow, OpenCV, Docker, Flutter, Vercel" src="assets/toolkit-light.svg" height="48">
 </picture>
 
 <sub>…and lately: MCP, LangGraph, pgvector, LightGBM, CLIP / FAISS — and treating evaluation as part of the product.</sub>
