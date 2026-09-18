@@ -37,6 +37,11 @@ lines.append(f"<sub>Public-leaderboard ranks, refreshed daily from the Kaggle AP
 
 block = "\n".join(lines)
 text = README.read_text()
-new = re.sub(r"(<!-- KAGGLE:START -->\n).*?(\n<!-- KAGGLE:END -->)", lambda m: m.group(1) + block + m.group(2), text, flags=re.S)
+new = re.sub(
+    r"<!-- KAGGLE:START -->.*?<!-- KAGGLE:END -->",
+    lambda m: "<!-- KAGGLE:START -->\n" + block + "\n<!-- KAGGLE:END -->",
+    text,
+    flags=re.S,
+)
 README.write_text(new)
 print(f"{len(rows)} competitions")
