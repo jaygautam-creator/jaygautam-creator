@@ -121,7 +121,7 @@ def masthead(t):
     L = 72
     # top masthead rule
     b.append(f'<g class="rise">')
-    p, _ = text(MONO(500), "JAY GAUTAM — BUILDER'S NOTEBOOK", L, 64, 13, t["muted"], track=0.18)
+    p, _ = text(MONO(500), "JAY GAUTAM — AI / ML NOTEBOOK", L, 64, 13, t["muted"], track=0.18)
     b.append(p)
     p, _ = text(MONO(500), "UPDATED SEPT 2026", W - L, 64, 13, t["muted"], track=0.18, anchor="end")
     b.append(p)
@@ -152,9 +152,9 @@ def masthead(t):
     # footer strip
     b.append('<g class="rise d3">')
     b.append(f'<line x1="{L}" y1="366" x2="{W - L}" y2="366" stroke="{t["rule"]}" stroke-width="1"/>')
-    p, x = text(MONO(500), "SURAT, INDIA  ·  B.TECH CS (AI & ML)  ·  2023–27", L, 396, 13, t["muted"], track=0.16)
+    p, x = text(MONO(500), "B.TECH CS (AI & ML)  ·  LLM AGENTS · EVALUATION · COMPUTER VISION", L, 396, 13, t["muted"], track=0.16)
     b.append(p)
-    label = "NOW BUILDING RAMPBRAIN"
+    label = "COMPETING ON KAGGLE"
     lw = width(MONO(600), label, 13, 0.16)
     lx = W - L - lw
     p, _ = text(MONO(600), label, lx, 396, 13, t["accent"], track=0.16)
@@ -205,21 +205,21 @@ def card(t, idx, name, kind, lines, tags, status, live):
 
 
 CARDS = [
-    ("rampbrain", "RampBrain", "Company brain", ["Compiles how a team works into governed skills",
+    ("aletheia", "Aletheia", "LLM verification", ["Multi-agent RAG pipeline that checks whether",
+     "an LLM's claim is supported by its sources —",
+     "and cites the exact span, vs. a single-LLM baseline."],
+     ["LangGraph", "pgvector", "RAG", "FastAPI"], "Live demo", True),
+    ("rampbrain", "RampBrain", "Agentic AI", ["Compiles how a team works into governed skills",
      "an AI agent runs — every step sourced, every", "action gated on human approval."],
-     ["FastAPI", "MCP", "Gemini", "Agents"], "Live · pilots", True),
-    ("aletheia", "Aletheia", "LLM verification", ["Multi-agent framework that checks whether an",
-     "LLM's claim is actually supported by the",
-     "literature — with a real evaluation harness."],
-     ["LangGraph", "pgvector", "FastAPI", "Next.js"], "Live demo", True),
-    ("river", "River", "AI companion", ["Keeps the thread across conversations without",
-     "taking control of it — memory that's consent-",
-     "based, visible, editable, and reversible."],
-     ["React", "Express", "SQLite", "Voice"], "Public beta", True),
-    ("dobara", "Dobara", "Revenue recovery", ["Prices every retry of a failed recurring payment",
-     "against the risk of losing the whole mandate —",
-     "and stops when the trade looks bad."],
-     ["LightGBM", "Calibration", "Next.js"], "Razorpay AI", False),
+     ["Agents", "MCP", "RAG", "Gemini"], "Live · pilots", True),
+    ("dobara", "Dobara", "Applied ML", ["Calibrated LightGBM models price every retry",
+     "of a failed recurring payment against the risk",
+     "of losing the mandate, evaluated with CIs."],
+     ["LightGBM", "Calibration", "Simulation"], "Razorpay AI", False),
+    ("river", "River", "LLM memory", ["Keeps the thread across conversations without",
+     "taking control of it — consent-based memory",
+     "with a precision / recall evaluation harness."],
+     ["LLMs", "Memory", "Eval harness"], "Public beta", True),
 ]
 
 for name, t in THEMES.items():
