@@ -16,11 +16,11 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 <!-- KAGGLE:START -->
 | Competition | Rank | Standing | Status |
 |:--|--:|:-:|:--|
-| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#392** of 3,226 | Top 13% | Live · ends 02 Nov 2026 |
-| **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#868** of 4,155 | Top 21% | Live · ends 22 Oct 2026 |
-| **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)** | **#5,523** of 9,804 | Top 57% | Live · ends 30 Sep 2026 |
+| **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#350** of 4,208 | Top 9% | Live · ends 22 Oct 2026 |
+| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#399** of 3,259 | Top 13% | Live · ends 02 Nov 2026 |
+| **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)** | **#5,656** of 9,890 | Top 58% | Live · ends 30 Sep 2026 |
 
-<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 22 Sep 2026</sub>
+<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 23 Sep 2026</sub>
 <!-- KAGGLE:END -->
 
 <br>
