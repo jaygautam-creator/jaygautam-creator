@@ -17,7 +17,7 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 | Competition | Rank | Standing | Status |
 |:--|--:|:-:|:--|
 | **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#304** of 4,321 | Top 8% | Live · ends 22 Oct 2026 |
-| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#420** of 3,308 | Top 13% | Live · ends 02 Nov 2026 |
+| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#35** of 3,308 | Top 1.1% | Live · ends 02 Nov 2026 |
 | **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)** | **#5,731** of 9,998 | Top 58% | Live · ends 30 Sep 2026 |
 
 <sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 25 Sep 2026</sub>
