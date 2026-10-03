@@ -16,12 +16,12 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 <!-- KAGGLE:START -->
 | Competition | Rank | Standing | Status |
 |:--|--:|:-:|:--|
-| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#16** of 3,580 | Top 1% | Live · ends 02 Nov 2026 |
-| **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#483** of 4,850 | Top 10% | Live · ends 22 Oct 2026 |
-| **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)** | **#5,799** of 10,246 | Top 57% | Live · ends 14 Oct 2026 |
-| **[Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)** | **#850** of 1,301 | Top 66% | Live · ends 02 Dec 2026 |
+| **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#34** of 3,625 | Top 1% | Live · ends 02 Nov 2026 |
+| **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#511** of 4,967 | Top 11% | Live · ends 22 Oct 2026 |
+| **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)** | **#5,998** of 10,246 | Top 59% | Live · ends 14 Oct 2026 |
+| **[Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)** | **#1,015** of 1,492 | Top 69% | Live · ends 02 Dec 2026 |
 
-<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 02 Oct 2026</sub>
+<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 03 Oct 2026</sub>
 <!-- KAGGLE:END -->
 
 <br>
