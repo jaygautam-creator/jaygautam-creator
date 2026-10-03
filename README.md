@@ -11,6 +11,12 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 
 <br>
 
+### ◆ &nbsp;Published research
+
+**[A Hard Verbatim-Evidence Gate as the Precondition for Multi-Agent Claim Verification](https://doi.org/10.5281/zenodo.22978023)** — co-authored preprint on [Zenodo](https://doi.org/10.5281/zenodo.22978023) (DOI `10.5281/zenodo.22978023`, Sep 2026). Requiring every verdict to quote a verbatim source span raised the hallucination-catch rate from **60.3% → 82.8%** on SciFact (paired Δ +22.4 pp, 95% CI [12.1, 33.3]). Built into [Aletheia](https://github.com/jaygautam-creator/Aletheia).
+
+<br>
+
 ### ◆ &nbsp;On the Kaggle leaderboard
 
 <!-- KAGGLE:START -->
