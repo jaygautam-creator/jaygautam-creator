@@ -17,7 +17,11 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 
 <br>
 
-### ◆ &nbsp;On the Kaggle leaderboard
+### ◆ &nbsp;Kaggle
+
+🥉 **Bronze medal — [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)**: 472nd of 6,299 teams (0.943 private), as a team of two with Devidas Gautam. A four-family rank ensemble, with labels mined from multilingual radiology reports by an LLM yes/no probe. [Code →](https://github.com/jaygautam-creator/rsna-knee-abnormality-detection)
+
+**Write-ups** &nbsp;[How many tasks does an agent benchmark need?](https://www.kaggle.com/competitions/gemma-4-developer-agent-paper/writeups/measuring-before-tuning-noise-floors-of-gemma-4-d) · [Solution: bronze on RSNA Knee](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/writeups/499th-place-bronze-0-943-private-4-family-rank) · [Survival analysis of LLM test-time compute on ARC](https://www.kaggle.com/competitions/arc-prize-2026-paper-track/writeups/new-writeup-1790494629832)
 
 <!-- KAGGLE:START -->
 | Competition | Rank | Standing | Status |
@@ -55,7 +59,10 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 | `07` | **[CuraLens](https://github.com/jaygautam-creator/CuraLens)** | Medical image screening — MobileNetV2 transfer-learning classifiers for oral and skin images with Grad-CAM heatmaps and risk scoring; 0.92–0.95 held-out validation AUC. |
 | `08` | **[Real-Time Parking Detection](https://github.com/jaygautam-creator/real-time-faculty-parking)** | Computer-vision occupancy pipeline streamed to a live dashboard. Top 10 of 500+ at the IIT Madras Hackathon 2023. |
 
-<sub>Also shipped: **[DealFlow360](https://github.com/jaygautam-creator/dealflow360)** (Odoo Hackathon 2026 finalist — top 350 of 20,000+) · **[Blackout Protocol](https://github.com/jaygautam-creator/Blackout-Protocol)** (offline mesh network) · **[Offline UPI Wallet](https://github.com/jaygautam-creator/offline-upi-wallet)** · [all repositories →](https://github.com/jaygautam-creator?tab=repositories)</sub>
+| `09` | **[Dadi](https://github.com/jaygautam-creator/dadi)** | Voice AI honeypot for phone scams in India — answers in Hinglish, keeps the scammer talking, and turns each call into fraud intel and a draft cybercrime complaint. [Live →](https://dadi-teal.vercel.app) |
+| `10` | **[Voice-first dental assistant](https://github.com/jaygautam-creator/viscan-voice-assistant)** | Proof of concept on synthetic data — report retrieval, dictation to grounded drafts and cited follow-ups. The LLM proposes, deterministic code decides. |
+
+<sub>Also shipped: **[arXiv digest & QA agent](https://github.com/jaygautam-creator/arxiv-digest-agent)** (stateful graph, grounded answers) · **[BDR outreach agent](https://github.com/jaygautam-creator/gopratle-bdr-agent)** (n8n, human-approved sends) · **[spendcube](https://github.com/jaygautam-creator/spendcube)** (spend classification pipeline) · **[DealFlow360](https://github.com/jaygautam-creator/dealflow360)** (Odoo Hackathon 2026 finalist — top 350 of 20,000+) · **[Blackout Protocol](https://github.com/jaygautam-creator/Blackout-Protocol)** (offline mesh network) · **[Offline UPI Wallet](https://github.com/jaygautam-creator/offline-upi-wallet)** · [all repositories →](https://github.com/jaygautam-creator?tab=repositories)</sub>
 
 <br>
 
