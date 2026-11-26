@@ -123,7 +123,7 @@ def masthead(t):
     b.append(f'<g class="rise">')
     p, _ = text(MONO(500), "JAY GAUTAM — AI / ML NOTEBOOK", L, 64, 13, t["muted"], track=0.18)
     b.append(p)
-    p, _ = text(MONO(500), "UPDATED SEPT 2026", W - L, 64, 13, t["muted"], track=0.18, anchor="end")
+    p, _ = text(MONO(500), "UPDATED NOV 2026", W - L, 64, 13, t["muted"], track=0.18, anchor="end")
     b.append(p)
     b.append(f'<line x1="{L}" y1="84" x2="{W - L}" y2="84" stroke="{t["ink"]}" stroke-width="1.5"/>')
     b.append(f'<line x1="{L}" y1="89" x2="{W - L}" y2="89" stroke="{t["ink"]}" stroke-width=".6"/>')
