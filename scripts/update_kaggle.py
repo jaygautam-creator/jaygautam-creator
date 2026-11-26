@@ -19,7 +19,7 @@ today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 rows = []
 for c in comps:
     rank, teams = int(c.user_rank or 0), int(c.team_count or 0)
-    if rank <= 0 or teams <= 0:
+    if rank <= 0 or teams <= 0 or str(c.ref).rstrip("/").endswith("kaggriculture"):
         continue
     slug = str(c.ref).rstrip("/").split("/")[-1]
     deadline = str(c.deadline)[:10]
