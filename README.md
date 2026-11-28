@@ -27,13 +27,13 @@ AI & ML undergraduate (B.Tech CS, 2023–27). I build **LLM agents and RAG pipel
 | Competition | Rank | Standing | Status |
 |:--|--:|:-:|:--|
 | **[ARC Prize 2026 - ARC-AGI-2](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2)** | **#149** of 3,543 | Top 5% | Final |
-| **[Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)** | **#401** of 6,945 | Top 6% | Live · ends 02 Dec 2026 |
+| **[Google - The Gemma 4 Developer Agent Competition](https://www.kaggle.com/competitions/gemma-4-developer-agent)** | **#404** of 7,018 | Top 6% | Live · ends 02 Dec 2026 |
 | **[RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)** | **#472** of 6,299 | Top 8% | Final |
-| **[Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)** | **#286** of 3,809 | Top 8% | Live · ends 20 Jan 2027 |
+| **[Google Quantum AI - Verifiable Quantum Circuit Compilation](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation)** | **#306** of 3,865 | Top 8% | Live · ends 20 Jan 2027 |
 | **[ARC Prize 2026 - ARC-AGI-3](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3)** | **#458** of 4,923 | Top 10% | Final |
-| **[Enveda CASMI 2026 - Molecule ID From Mass Spectra](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)** | **#2,771** of 6,111 | Top 46% | Live · ends 14 Dec 2026 |
+| **[Enveda CASMI 2026 - Molecule ID From Mass Spectra](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra)** | **#2,146** of 6,188 | Top 35% | Live · ends 14 Dec 2026 |
 
-<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 27 Nov 2026</sub>
+<sub>Public-leaderboard ranks, refreshed daily from the Kaggle API · last updated 28 Nov 2026</sub>
 <!-- KAGGLE:END -->
 
 <br>
